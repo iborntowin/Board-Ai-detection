@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images-AI</folder>
+	<filename>RF-module-13.jpg</filename>
+	<path>C:\Users\nassi\Downloads\Images-AI\RF-module-13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RF-module</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>400</ymin>
+			<xmax>739</xmax>
+			<ymax>1179</ymax>
+		</bndbox>
+	</object>
+</annotation>

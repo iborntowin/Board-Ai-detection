@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images-AI</folder>
+	<filename>module-bluetooth-18.jpg</filename>
+	<path>C:\Users\nassi\Downloads\Images-AI\module-bluetooth-18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>module-bluetooth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>59</ymin>
+			<xmax>1499</xmax>
+			<ymax>1106</ymax>
+		</bndbox>
+	</object>
+</annotation>
